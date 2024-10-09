@@ -32,7 +32,7 @@ const trackCryptoPortfolio=async(array)=>{
   };
   const portfilo=[
       { 
-        symbol: 'bitcoin', quantity: 2 
+        symbol: 'bitcoin', quantity: 4
       }, 
       { 
         symbol: 'ethereum', quantity: 5 
